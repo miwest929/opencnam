@@ -1,3 +1,6 @@
+// Uses http://www.opencnam.com/
+// CONTRIBUTING: go install && opencnam query <phone-number>
+
 package main
 
 import (
